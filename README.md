@@ -1,4 +1,4 @@
-# Google_Translater_V2
+# Google_Translater
 
 <p align="center">
   <a href="https://www.python.org">
