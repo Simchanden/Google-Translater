@@ -10,13 +10,13 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/lntechnical2/Google_Translater_V2/stargazers">
-    <img src="https://img.shields.io/github/stars/lntechnical2/Google_Translater_V2?style=social">
+  <a href="https://github.com/Simchanden/Telegram-Google-Translater/stargazers">
+    <img src="https://github.com/Simchanden/Telegram-Google-Translater?style=social">
 
   </a>
   
-  <a href="https://github.com/lntechnical2/Google_Translater_V2/fork">
-    <img src="https://img.shields.io/github/forks/lntechnical2/Google_Translater_V2?label=Fork&style=social">
+  <a href="https://github.com/Simchanden/Telegram-Google-Translater/fork">
+    <img src="https://github.com/Simchanden/Telegram-Google-Translater?label=Fork&style=social">
 
   </a>  
 </p>
