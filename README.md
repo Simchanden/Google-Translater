@@ -45,10 +45,6 @@
 
 * DATABASE_NAME  - Your database name from mongoDB. Default will be 'my'
 
-
-## How To Create Data Base Url
- https://youtu.be/HhHzCfrqsoE
-
 ## Bot Commands
 > set command
 * `/set language Name` set custom language
@@ -60,7 +56,7 @@
 
 ## License
 ````
-lntechnical2/Google_Translater_V2 is licensed under the
+Simchanden/Google_Translater_V2 is licensed under the
 Apache License 2.0
 A permissive license whose main conditions require preservation of copyright and license notices.
 Contributors provide an express grant of patent rights.
