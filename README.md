@@ -72,7 +72,7 @@ and larger works may be distributed under different terms and without source cod
 
 <p align="left">
   <a href="https://github.com/pyrogram/pyrogram">
-    <img alt="Telegram" src ="chrome://favicon2/?size=24&scale_factor=1x&show_fallback_monogram=&page_url=https%3A%2F%2Ftelegram.org%2F" width="104.75" height="32"/>
+    <img alt="Telegram" src ="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=s180-rw" width="104.75" height="32"/>
   </a>
 </p>
 
