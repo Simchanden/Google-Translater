@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Simchanden/Telegram-Google-Translater/stargazers">
-    <img src="https://github.com/Simchanden/Telegram-Google-Translater?style=social">
+    <img src="https://img.shields.io/github.com/Simchanden/Telegram-Google-Translater?style=social">
 
   </a>
   
