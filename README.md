@@ -56,7 +56,7 @@
 ## Support 🇰🇭
 
 <p align="left">
-  <a href="https://github.com/pyrogram/pyrogram">
+  <a href="https://t.me/chanden_sim">
     <img alt="Telegram" src ="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=s180-rw" width="50" height="50"/>
   </a>
 </p>
