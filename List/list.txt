@@ -1,8 +1,3 @@
-Khmer
-English
-Korean
-Chinese 
-Japanese	
 Afrikaans
 Albanian
 Amharic
@@ -16,11 +11,14 @@ Bosnian
 Bulgarian
 Catalan
 Cebuano
+Chinese 
+Chinese 
 Corsican	
 Croatian
 Czech	
 Danish	
 Dutch	
+English	
 Esperanto	
 Estonian	
 Finnish	
@@ -43,10 +41,13 @@ Igbo
 Indonesian	
 Irish	
 Italian	
+Japanese	
 Javanese	
 Kannada	
 Kazakh
+Khmer	
 Kinyarwanda	
+Korean	
 Kurdish	
 Kyrgyz	
 Lao	
