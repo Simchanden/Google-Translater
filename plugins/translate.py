@@ -17,8 +17,8 @@ async def start(client, message):
 @Client.on_message(filters.private & filters.text  )
 async def echo(client, message):
 	keybord1= InlineKeyboardMarkup( [
-        [ 
-            InlineKeyboardButton("AfrikaansX", callback_data='af'),
+        [ InlineKeyboardButton("Khmer",callback_data = "km")
+            InlineKeyboardButton("Afrikaans", callback_data='af'),
              InlineKeyboardButton("Albanian", callback_data='sq'),
             InlineKeyboardButton("Amharic",callback_data ='am'),
         ],
@@ -74,8 +74,8 @@ async def echo(client, message):
 @Client.on_callback_query()
 async def translate_text(bot,update):
       keybord1= InlineKeyboardMarkup( [
-        [ 
-            InlineKeyboardButton("AfrikaansX", callback_data='af'),
+        [ InlineKeyboardButton("Khmer",callback_data = "km")
+            InlineKeyboardButton("Afrikaans", callback_data='af'),
              InlineKeyboardButton("Albanian", callback_data='sq'),
             InlineKeyboardButton("Amharic",callback_data ='am'),
         ],
