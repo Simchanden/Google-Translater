@@ -23,13 +23,11 @@
 
 ## Features
 
-* Supporting 100 More Languages
+* ```គាំទ្រ 100 ភាសាបន្ថែមទៀត```
 
-* ```You can Set Your Custom Languages```
+* ```អ្នកអាចកំណត់ភាសាផ្ទាល់ខ្លួនរបស់អ្នក។```
 
-* ```Supporting in Group```
-
-* ```Supporting Inline```
+* ```ការគាំទ្រនៅក្នុងក្រុម```
 
 ## Configs 
 
