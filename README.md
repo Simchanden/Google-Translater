@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://github.com/Simchanden/Telegram-Google-Translater/fork">
-    <img src="https://img.shields.io/github/forks/lntechnical2/Telegram-Google-Translater?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Simchanden/Telegram-Google-Translater?label=Fork&style=social">
 
   </a>  
 </p>
