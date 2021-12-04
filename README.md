@@ -1,4 +1,4 @@
-# Google_Translater
+# Telegram-Google-Translater
 
 <p align="center">
   <a href="https://www.python.org">
