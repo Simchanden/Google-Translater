@@ -23,7 +23,7 @@ async def setlg(client,message):
     	    		try:
     	    			lgcd = list[cd]
     	    		except:
-    	    			await message.reply_text("❗️ This language Not available in My List \n Or Check Your spelling 😉",reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Check List 📑" ,url="https://raw.githubusercontent.com/lntechnical2/Google-Translater-/main/List/list.txt")]]))
+    	    			await message.reply_text("❗️ This language Not available in My List \n Or Check Your spelling 😉",reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Check List 📑" ,url="https://raw.githubusercontent.com/Simchanden/Telegram-Google-Translater/main/List/list.txt")]]))
     	    			return
     	    		set(user_id,lgcd)
     	    		await message.reply_text(f"Successfully set custom default language **{cd}**")
