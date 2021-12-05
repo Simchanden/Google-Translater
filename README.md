@@ -41,7 +41,7 @@
 
 * DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
 
-* DATABASE_NAME  - 'chanden'
+* DATABASE_NAME  - 'my'
 
 ## Bot Commands
 > set command
